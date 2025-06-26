@@ -1,4 +1,5 @@
 :: https://github.com/Charon2050/AI_Auto_Run
+:: Part of this code is adapted from pollinations.ai, licensed under the MIT License.
 
 @echo off
 if %ERRORLEVEL%==9009 chcp 936 >nul
