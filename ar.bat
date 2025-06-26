@@ -1,3 +1,5 @@
+:: https://github.com/Charon2050/AI_Auto_Run
+
 @echo off
 if %ERRORLEVEL%==9009 chcp 936 >nul
 setlocal enabledelayedexpansion
