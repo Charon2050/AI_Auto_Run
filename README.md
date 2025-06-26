@@ -15,6 +15,6 @@ run `install-AIAutoRun.bat`, it will add `ar` to environment variables.
 
 `ar poweroff after 1 hr`
 
-### Open-Source License
+## Open-Source License
 
 This code is Unlinced, but part of this code is adapted from [pollinations.ai](https://pollinations.ai), licensed under the MIT License.
